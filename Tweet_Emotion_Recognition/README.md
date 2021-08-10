@@ -1,9 +1,13 @@
-# Tweet Emotion Recognition w/ Tensorflow
+# Tweet Emotion Recognition with Tensorflow
 
-    Using a Tokenizer in TensorFlow
+Created a recurrent neural network that recognizes a emotion in a particular tweet. The model has been trained with data containing thousands of tweets each associated with one of 6 emotions: Sadness, Joy, Love, Fear, Surprise and Anger.
 
-    Padding and Truncating Sequences
+Employed the following tools/methods to successfully complete the project:
+    
+    Used a Tokenizer in TensorFlow 
 
-    Creating and Training Recurrent Neural Networks
+    Used Padding and Truncating Sequences
 
-    Using NLP and Deep Learning to perform Text Classification
+    Created and Trained Recurrent Neural Networks
+
+    Used NLP and Deep Learning to perform Text Classification
